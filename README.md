@@ -1,2 +1,22 @@
 # Intermediate-JS-by-Angela
 Intermediate
+![WhatsApp Image 2023-06-01 at 11 23 37 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/3b8dad81-95b7-45af-b77b-1b71f4ec53b4)
+![WhatsApp Image 2023-06-01 at 11 23 38 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/46c9c3dd-1307-4792-91a9-3825995c2aa3)
+![WhatsApp Image 2023-06-01 at 11 23 38 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/8bfb9304-300a-47aa-82f6-a80fbda20c57)
+![WhatsApp Image 2023-06-01 at 11 23 39 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/f4f16fbc-691c-4afd-94dd-b3ef49c6658f)
+![WhatsApp Image 2023-06-01 at 11 23 39 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/85d404fb-6d5b-47ba-9f18-c8a192fc6381)
+![WhatsApp Image 2023-06-01 at 11 23 39 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/c5537a24-a142-49d4-a39a-01f114e8d040)
+![WhatsApp Image 2023-06-01 at 11 23 40 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/a24ea789-2e1f-46e6-9220-30e588e3b868)
+![WhatsApp Image 2023-06-01 at 11 23 40 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/2eb6e7ac-1a06-461e-adee-db3815880c28)
+![WhatsApp Image 2023-06-01 at 11 23 40 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/d7de832e-cf7e-48e6-b4b5-e93132ac97f5)
+![WhatsApp Image 2023-06-01 at 11 23 41 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/74d52aca-7841-4bca-aefd-cb7d41add499)
+![WhatsApp Image 2023-06-01 at 11 23 41 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/80adf3fe-1e27-4c11-ba58-7d3fd549ce9d)
+![WhatsApp Image 2023-06-01 at 11 23 41 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/11091041-f561-4544-b19c-63bd094dbc4d)
+![WhatsApp Image 2023-06-01 at 11 23 42 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/c30af30a-2a28-44e3-aa03-05b0861b7f57)
+![WhatsApp Image 2023-06-01 at 11 23 42 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/75d2881c-f76a-4188-ac11-ce5c0780011f)
+![WhatsApp Image 2023-06-01 at 11 23 42 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/23a54b44-06a0-4a7d-8bfd-4a303cf369fa)
+![WhatsApp Image 2023-06-01 at 11 23 43 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/7183cf16-6b6d-436e-adf2-eac213275245)
+![WhatsApp Image 2023-06-01 at 11 23 43 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/896dbce9-5347-433d-9ef2-53653097c7d5)
+![WhatsApp Image 2023-06-01 at 11 23 43 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/3b5388f6-f556-4d8c-ac6b-7f232a7f70a7)
+![WhatsApp Image 2023-06-01 at 11 23 44 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/336eec11-d2be-4461-82a9-2df7a0263e7f)
+
