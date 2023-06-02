@@ -2,6 +2,7 @@
 Intermediate
 ![WhatsApp Image 2023-06-01 at 11 23 44 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/2e969ff5-4903-4573-8fae-d9e75df54a27)
 ![math random](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/b3e0b621-8d39-4192-80e6-3985e3301850)
+![pseudo random no](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/e8f977ae-81bb-44a3-89c9-2b9c02644b82)
 ![WhatsApp Image 2023-06-01 at 11 23 43 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/766746d5-3951-4950-baa7-9311212082e7)
 ![WhatsApp Image 2023-06-01 at 11 23 43 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/5c07349c-758b-4361-86b4-4e8542bebaeb)
 ![WhatsApp Image 2023-06-01 at 11 23 43 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/dfd56188-771a-4bc5-8080-0eba29f92b07)
