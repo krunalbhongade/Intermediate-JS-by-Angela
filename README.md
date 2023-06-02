@@ -12,6 +12,8 @@ Intermediate
 
 ![WhatsApp Image 2023-06-01 at 11 23 42 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/7ad1d72b-bf17-443d-8a60-e7ad436c156b)
 ![WhatsApp Image 2023-06-01 at 11 23 42 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/ac0df240-ad59-4012-b3f1-a10c7b05422a)
+![Bmi calculator](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/283e4d31-8215-4a81-9716-1ca771f167a0)
+
 ![WhatsApp Image 2023-06-01 at 11 23 42 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/228b767e-cc8e-489d-ad6d-f75985d48cc1)
 
 ![WhatsApp Image 2023-06-01 at 11 23 41 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/808dd7c2-2800-4b01-8ec9-5bb7d84afae9)
