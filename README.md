@@ -32,5 +32,10 @@ Intermediate
 ![WhatsApp Image 2023-06-01 at 11 23 39 PM (2)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/3b2b4136-4ded-4ce2-b92d-0b6bb2685886)
 
 ![WhatsApp Image 2023-06-01 at 11 23 38 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/99dc0a6b-5f51-4ae7-ae15-0e6e35b39b1a)
+![Screenshot (184)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/06a245fb-da3b-43da-aa14-2e4174660389)
+![Screenshot (185)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/ea0fec5c-f6b2-468e-83c2-636fafb46bf6)
+
 ![WhatsApp Image 2023-06-01 at 11 23 38 PM (1)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/0a4c6eae-28a3-46fd-8a2b-a548d600b582)
+![Screenshot (186)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/51434d84-0749-404b-9c0f-2ab49010ed31)
+
 ![WhatsApp Image 2023-06-01 at 11 23 37 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/f942640d-1ac9-4edd-a987-fb87a8bbded6)
