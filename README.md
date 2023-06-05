@@ -39,3 +39,4 @@ Intermediate
 ![Screenshot (186)](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/51434d84-0749-404b-9c0f-2ab49010ed31)
 
 ![WhatsApp Image 2023-06-01 at 11 23 37 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/f942640d-1ac9-4edd-a987-fb87a8bbded6)
+.
