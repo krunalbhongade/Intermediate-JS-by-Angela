@@ -40,3 +40,13 @@ Intermediate
 
 ![WhatsApp Image 2023-06-01 at 11 23 37 PM](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/f942640d-1ac9-4edd-a987-fb87a8bbded6)
 .
+![85](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/ae78b728-5b8b-434f-853f-9c4e652f4946)
+![86](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/aa0a7755-456d-4a1d-892b-3a8ace1990a3)
+![87](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/3a6a9901-d1b9-4fde-9f79-162ebcbc13b8)
+![88](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/15b94882-4cfd-484e-8fb0-8645f5dbb1d2)
+![89](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/28e23c36-cca2-453f-8242-20fab82a42dd)
+![90](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/714aad9c-8eb8-4f26-a191-59f1db7a8c54)
+![91](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/6c308d44-3718-4029-81f1-bcaa6d09ac05)
+![92](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/32007a93-fda1-4d4d-ba50-00934029829f)
+![93](https://github.com/krunalbhongade/Intermediate-JS-by-Angela/assets/126875304/00f6e9a1-62a2-4424-9b93-73c069447de3)
+
